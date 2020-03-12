@@ -1,6 +1,6 @@
 {
 
-    "PizzaTypes" : [
+    "pizzaTypes" : [
 
         {
             "name" : "Classic Pepperoni",
